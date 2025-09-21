@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Projet_DL_ML/DroneDetection/Robflow/train
+val: /content/drive/MyDrive/Projet_DL_ML/DroneDetection/Robflow/valid
+
+nc: 1
+names: ['drone']
